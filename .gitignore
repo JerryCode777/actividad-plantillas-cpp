@@ -1,0 +1,8 @@
+bin/
+*.o
+*.exe
+*.out
+.DS_Store
+.vscode/
+.idea/
+~$*.docx
